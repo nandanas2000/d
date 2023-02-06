@@ -1,0 +1,10 @@
+.box{
+    width: 200px;
+    height:250px;
+color:rgb(14, 48, 217);
+margin: 150px;
+padding: 150px;
+border-style: dashed;
+display:flex;
+justify-content:center;
+}
