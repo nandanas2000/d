@@ -1,12 +1,18 @@
 #first{
-    color:chocolate;
+    color:rgb(58, 154, 79);
 }
 
 #second{
-    color:rgb(131, 5, 5);
+    color:rgb(67, 154, 86);
 
 }
 
 #third{
-    color:rgb(234, 13, 13);
+    color:rgb(55, 154, 64);
+}
+.center{
+    text-align: center;
+}
+body{
+    background-image:url("images/pngtree-download-cute-daisies-wallpaper-picture-image_1425103.jpg");
 }
